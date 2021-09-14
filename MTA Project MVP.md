@@ -14,7 +14,7 @@
 <img src="top_stations_bar_chart.png" width="700px"/>
 </div>
 
-The busiest stations when ranked by median exits/hour are shown above. A quick google search of busiest new york subway stations mostly agrees with this ranking which provides some confidence in its validity.
+The busiest stations when ranked by median exits/hour are shown above. A quick google search of busiest new york subway stations mostly agrees with this ranking which provides some confidence that the procedure I used to measure foot traffic is relatively accurate and robust to any outliers remaining in the data after cleaning.
 
 ### Current Takeaways
 - Street teams should operate on a weekday that is not Monday to maximize foot traffic

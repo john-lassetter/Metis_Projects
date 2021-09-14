@@ -11,7 +11,7 @@
 **(left)** According to the data above, the busiest days of the week are weekdays with Monday being the least busy weekday. This makes sense intuitively as work days should see the most commuters and mondays are more likely to be taken off than weekdays in the middle of the week like Wednesday. **(right)** 6-9pm appears to be the busiest time period which corresponds with the post work rush. Interestingly, there are relatively few exits/hour during the morning rush which should be between 6am and 9am. This is cause for alarm and will be investigated.
 
 <div>
-<img src="top_stations_bar_chart.png" width="700px"/>
+<img src="top_stations_bar_chart2.png" width="700px"/>
 </div>
 
 The busiest stations when ranked by median exits/hour are shown above. A quick google search of busiest new york subway stations mostly agrees with this ranking which provides some confidence that the procedure I used to measure foot traffic is relatively accurate and robust to any outliers remaining in the data after cleaning.

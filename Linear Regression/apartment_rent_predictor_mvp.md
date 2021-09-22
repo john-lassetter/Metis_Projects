@@ -4,7 +4,7 @@
 How much will an apartment rent for based on its square footage, number of bedrooms and bathrooms, location (city, state), distance from nearby colleges and airports, etc?
 
 <div>
-<img src="price_vs_sq_ft.png" width="700px"/>
+<img src="rent_vs_sq_ft.png" width="700px"/>
 </div>
 
 ### Preliminary Results

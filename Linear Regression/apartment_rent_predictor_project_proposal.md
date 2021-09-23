@@ -13,7 +13,7 @@ could use this analysis (especially in conjunction with a database of real estat
 I will scrape apartments.com using requests and beautifulsoup to get my data. An individual sample of analysis would be 1
 apartment. Rent will by my target variable and I intend to include the following as features sq. feet, number of bedrooms, number of bathrooms,
 age of building, location (state, county, city), pet friendly vs not (maybe separate dog and cat), distance to closest college (maybe include size of college),
-distance to closest airport (maybe closest int. airport)
+distance to closest airport (maybe closest int. airport).
 
 Potential Additional Datasets: US Census data to use city population as a feature, college  attendance data to get close to small/medium/large/collge feature
 

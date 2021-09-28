@@ -4,10 +4,6 @@
 How much will an apartment rent for based on its square footage, number of bedrooms and bathrooms, etc?
 
 <div>
-<img src="rent_vs_sq_ft.png" width="700px"/>
-</div>
-
-<div>
 <img src="lm_best_fits.png" width="700px"/>
 </div>
 

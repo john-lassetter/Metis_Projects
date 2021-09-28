@@ -8,7 +8,7 @@ How much will an apartment rent for based on its square footage, number of bedro
 </div>
 
 <div>
-<img src="lm_fits.png" width="700px"/>
+<img src="lm_best_fits.png" width="700px"/>
 </div>
 
 ### Preliminary Results

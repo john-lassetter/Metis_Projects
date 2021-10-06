@@ -14,7 +14,7 @@ as a .json file. An individual unit in my analysis will be a time stamp represen
 single-point measure of or average value of irradiance, temperature, and perhaps more features such as wind speed and
 cloud cover at that time stamp. These data will then be used in conjunction with solar panel performance data to
 produce an estimate of the average power produced by the solar panel in that hour long time stamp. As a stretch goal,
-The user of the end product dashboard could also feed in what they pay for electricity, what size solar panel
+the dashboard could also take user input for what they pay for electricity, what size solar panel
 installation they are considering, and the cost of the solar panels + installation to see how much money they would
 save annually and how long it will take the solar panels to pay themselves off.
 

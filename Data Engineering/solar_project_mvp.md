@@ -4,7 +4,7 @@ The goal of this project is to provide users with a dashboard to estimate the an
 home/business. This is an example of a plot that would populate on the dashboard when a user input their county.
 
 <div>
-<img src="solar_power_benton_ex.png" width="700px"/>
+<img src="solar_power_benton_ex.jpg" width="700px"/>
 </div>
 
 Moving forward, I will put this on a website that takes user inputs and add more outputs like the annual sum of power produced and averages for each season. I also

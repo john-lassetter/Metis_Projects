@@ -19,10 +19,10 @@ efficiency data is from [First Solar](https://www.firstsolar.com/-/media/First-S
 NREL was acquired through their api and amounted to about 500,000 rows of data, spanning 3 states and 1 year.
 
 ### Tools
-Requests - data acquisition
-Pandas, numpy, matplotlib - EDA and data analysis
-SQLite - data storage
-Streamlit - web app design
+Requests - data acquisition  
+Pandas, numpy, matplotlib - EDA and data analysis  
+SQLite - data storage  
+Streamlit - web app design  
 Heroku - web app hosting
 
 ### Communication

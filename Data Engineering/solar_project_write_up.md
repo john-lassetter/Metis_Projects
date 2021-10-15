@@ -10,7 +10,7 @@ Renewable Energy Laboratory (NREL) and allows them to compare their expected ann
 
 ### Design
 Hourly data was ingested from NREL, cleaned, and stored in an SQLite database. This data was then used, along with the solar panel efficiency specs from First Solar,
-to compute daily solar panel power production for each county in CA, OR, and WA. This much smaller (downsample) processed data was stored in a separate dataset
+to compute daily solar panel power production for each county in CA, OR, and WA. This much smaller (downsampled) processed data was stored in a separate dataset
 which was deployed with the interactive webapp to Heroku.
 
 ### Data

@@ -2,7 +2,7 @@
 
 ### Question/Need
 
-In order for a lender to maximize profits (in an ethical way), they should give out only loans to clients that will be able to pay off those loans. When a client defaults on a loan, the lender will take the (unpaid principle) -- (payments received) as a loss (assuming the former is greater than the latter). Thus, being able to predict if a client will default on a loan before issuing it could potentially save a lot of money for the lender.
+In order for a lender to maximize profits (in an ethical way), they should give out only loans to clients that will be able to pay off those loans. When a client defaults on a loan, the lender will take the a loss (for most, moderate interest rate loans). Thus, being able to predict if a client will default on a loan before issuing it could potentially save a lot of money for the lender.
 
 ### Data Description
 

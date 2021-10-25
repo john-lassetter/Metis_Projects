@@ -7,7 +7,7 @@ application.
 
 <div>
 <img src="https://github.com/john-lassetter/Metis_Projects/blob/main/Classification/baseline_confusion_matrix.png" width="350px"/>
-<img src="https://github.com/john-lassetter/Metis_Projects/blob/main/Classification/baseline_roc_curve.png" width="350px"/>
+<img src="https://github.com/john-lassetter/Metis_Projects/blob/main/Classification/baseline_roc_curve.png" width="500px"/>
 </div>
 
 

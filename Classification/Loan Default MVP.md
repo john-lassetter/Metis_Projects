@@ -10,7 +10,7 @@ application.
 <img src="https://github.com/john-lassetter/Metis_Projects/blob/main/Classification/baseline_roc_curve.png" width="500px"/>
 </div>
 
-####### **Note**: If the figures appear to be missing axes labels, please view this document using the github light theme
+####### Note: If the figures appear to be missing axes labels, please view this document using the github light theme
 
 **Discussion**: Because the training data is so imbalanced (~9% of all loans have payment difficulties), this means that precision is generally inflated relative to recall. Therefore, the model used to produce the above confusion matrix uses a threshold much lower than 50%, otherwise it would predict close to 0 cases of payment difficulty and have a precision of ~91%. With the threshold above the precision is merely 13% but the recall is 63%. In other words, this model flags 63% of all loans with payment difficulties as loans with payment difficulties, but it also incorrectly flags ~7 loans that will have no payment issues for every 1 it flags correctly.
 

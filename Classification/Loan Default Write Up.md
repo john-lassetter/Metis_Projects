@@ -19,7 +19,7 @@ Data was from a Kaggle dataset that can be found [here](https://www.kaggle.com/g
 
 *Model Evaluation and Selection*
 
-Models were compared by looking at ROC AUC, max(F1 score), and interpretability (except for the voting classifier which was eliminated from the selection process early for have an ROC AUC slightly worse than logistic regression).
+Models were compared by looking at ROC AUC, max(F1 score), and interpretability (except for the voting classifier which was eliminated from the selection process early for having an ROC AUC slightly worse than logistic regression).
 
 | Model | ROC AUC | F1 Score | Interpretability | Training Time |
 | ------|---------|----------|------------------| ------------- |

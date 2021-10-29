@@ -20,10 +20,10 @@ Data was from a Kaggle dataset that can be found [here](https://www.kaggle.com/g
 Models were compared by looking at ROC AUC, max(F1 score), and interpretability (except for the voting classifier which was eliminated from the selection process early for have an ROC AUC slightly worse than logistic regression).
 
 	| Model | ROC AUC | F1 Score | Interpretability | Training Time |
-| ---------|--------|----------|------------------| ------------- |
-| Logistic Regression | 0.67 | 0.22 | High | 7s |
-| Random Forest | 0.65 | 0.22 | Medium | 15s |
-| Gradient Boosted Classifier | 0.69 | 0.25 | Low | 199s |
+	| ------|---------|----------|------------------| ------------- |
+	| Logistic Regression | 0.67 | 0.22 | High | 7s |
+	| Random Forest | 0.65 | 0.22 | Medium | 15s |
+	| Gradient Boosted Classifier | 0.69 | 0.25 | Low | 199s |
 
 From the table above, the gradient boosted classifier clearly had a marginal advantage in performance over the other two models. However, the logistic regression was ultimately chosen as the most appropriate model for the problem due to its higher interpretability and much short training time for only slightly less performance.
 

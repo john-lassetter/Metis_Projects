@@ -11,12 +11,14 @@ Data was from a Kaggle dataset that can be found [here](https://www.kaggle.com/g
 
 ### Algorithms
 *Models and the Hyperparameters Used to Tune Them*
+
 - logistic regressor - l2 penalty
 - random forest classifier - number of estimators
 - gradient boosted (decision tree) classifier - number of estimators
 - voting classifier - l2 penalty (logistic regressor), number of estimators (random forest)
 
 *Model Evaluation and Selection*
+
 Models were compared by looking at ROC AUC, max(F1 score), and interpretability (except for the voting classifier which was eliminated from the selection process early for have an ROC AUC slightly worse than logistic regression).
 
 | Model | ROC AUC | F1 Score | Interpretability | Training Time |

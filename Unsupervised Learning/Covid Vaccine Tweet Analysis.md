@@ -25,9 +25,9 @@ I may also get more data from Twitter using Tweepy
 
 These are the tools I plan to use:
 
-*Data Preprocessing*: Pandas, Scikit-Learn, NLTK, NMF
-*Classification*: Scikit Learn
-*Network Modeling*: NetworkX
+*Data Preprocessing*: Pandas, Scikit-Learn, NLTK, NMF //
+*Classification*: Scikit Learn //
+*Network Modeling*: NetworkX //
 
 
 ### MVP Goal

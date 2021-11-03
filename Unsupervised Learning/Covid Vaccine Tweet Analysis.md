@@ -25,8 +25,9 @@ I may also get more data from Twitter using Tweepy
 
 These are the tools I plan to use:
 
-**Data Preprocessing**: Pandas, Scikit-Learn, NLTK, NMF <br/>
-**Classification**: Scikit Learn <br/>
+**Data Preprocessing**: Pandas, Scikit-Learn, NLTK <br/>
+**Classification**: Scikit-Learn <br/>
+**Sentiment Analysis**: Unsure yet what I will use for this. Possibly spacy if there is not an option in Scikit-Learn or NLTK <br/>
 **Network Modeling**: NetworkX <br/>
 
 

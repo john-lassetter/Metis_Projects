@@ -8,7 +8,7 @@ The vaccination rate for covid-19 in the US has slowed significantly, despite an
 ~200k tweets including names of vaccines were cleaned and prepared for sentiment analysis. Then, tweets with a negative sentiment were stemmed, tokenized, and then modeled using latent Dirichlet allocation (LDA). Topics were then identified and cross correlated with popular hashtags also found within the dataset. Conclusions were then drawn primarily from the most frequent words appearing in these topics as well as sample tweets and prevalent hashtags from each topic.
 
 ### Data
->200k tweets from >80k unique users. The users consisted of a wide variety from verified news sources to personal accounts with few followers. The median followers for a user was 275 and 3.5% of all users were verified. All tweets contained a name of a covid-19 vaccine or vaccine producer in their text (e.g. Pfizer/BioNTech, Sinopharm, Sinovac, Moderna, Oxford/AstraZeneca, Covaxin, Sputnik V).
+\>200k tweets from >80k unique users. The users consisted of a wide variety from verified news sources to personal accounts with few followers. The median followers for a user was 275 and 3.5% of all users were verified. All tweets contained a name of a covid-19 vaccine or vaccine producer in their text (e.g. Pfizer/BioNTech, Sinopharm, Sinovac, Moderna, Oxford/AstraZeneca, Covaxin, Sputnik V).
 
 ### Algorithms
 Sentiment analysis was performed using (VADER sentiment analysis)[https://github.com/cjhutto/vaderSentiment]. Topic modeling was performed primarily using latent Dirichlet allocation (LDA). SVD and NMF were also explored for topic modeling, but were found to be less effective than LDA in this case.

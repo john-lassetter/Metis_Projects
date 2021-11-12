@@ -14,8 +14,8 @@ The vaccination rate for covid-19 in the US has slowed significantly, despite an
 Sentiment analysis was performed using (VADER sentiment analysis)[https://github.com/cjhutto/vaderSentiment]. Topic modeling was performed primarily using latent Dirichlet allocation (LDA). SVD and NMF were also used for topic modeling, but were found to be less effective than LDA in this case.
 
 ### Tools
-**Data Preprocessing and Visualization:**  Pandas, Scikit-Learn, Matplotlib <\br>
-**Sentiment Analysis:**  VADER sentiment analyzer <\br>
+**Data Preprocessing and Visualization:**  Pandas, Scikit-Learn, Matplotlib </br>
+**Sentiment Analysis:**  VADER sentiment analyzer </br>
 **Topic Modeling:** Scikit-Learn: LDA, Singular value decomposition (SVD), Non-negative matrix factorization (NMF)
 
 

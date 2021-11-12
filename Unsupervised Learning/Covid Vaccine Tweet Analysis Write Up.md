@@ -20,4 +20,4 @@ Sentiment analysis was performed using [VADER sentiment analysis](https://github
 
 
 ### Communication
-A pdf presentation of the results of this project is in this repo as is the notebook used to build the model.
+A pdf presentation of the results of this project is in this repo as is the notebook used to perform the analysis.

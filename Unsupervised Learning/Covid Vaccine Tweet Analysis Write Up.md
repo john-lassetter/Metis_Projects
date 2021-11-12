@@ -11,7 +11,7 @@ The vaccination rate for covid-19 in the US has slowed significantly, despite an
 \>200k tweets from >80k unique users. The users consisted of a wide variety from verified news sources to personal accounts with few followers. The median followers for a user was 275 and 3.5% of all users were verified. All tweets contained a name of a covid-19 vaccine or vaccine producer in their text (e.g. Pfizer/BioNTech, Sinopharm, Sinovac, Moderna, Oxford/AstraZeneca, Covaxin, Sputnik V).
 
 ### Algorithms
-Sentiment analysis was performed using (VADER sentiment analysis)[https://github.com/cjhutto/vaderSentiment]. Topic modeling was performed primarily using latent Dirichlet allocation (LDA). SVD and NMF were also explored for topic modeling, but were found to be less effective than LDA in this case.
+Sentiment analysis was performed using [VADER sentiment analysis](https://github.com/cjhutto/vaderSentiment). Topic modeling was performed primarily using latent Dirichlet allocation (LDA). SVD and NMF were also explored for topic modeling, but were found to be less effective than LDA in this case.
 
 ### Tools
 **Data Preprocessing and Visualization:**  Pandas, Scikit-Learn, Matplotlib </br>

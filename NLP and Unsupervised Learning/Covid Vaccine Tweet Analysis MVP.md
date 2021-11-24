@@ -12,4 +12,4 @@
 
 **Future Work**: 
 - Improve data cleaning by adding spellchecking and removing more users that are producing automated and unintersting tweets such as vaccine appointment schedules. 
-- Classify users by their twitter bio's using the classifier from (this paper)[https://arxiv.org/abs/2008.08364] (if implementable in a reasonable amount of time)
+- Classify users by their twitter bio's using the classifier from [this paper](https://arxiv.org/abs/2008.08364) (if implementable in a reasonable amount of time)
